@@ -1,0 +1,229 @@
+{
+    "basics": {
+        "name": "Jerson Moreno",
+        "label": "Full Stack Developer with 9 years of experience",
+        "image": "https://avatars.githubusercontent.com/u/10082375?s=400&u=34e6c0bf009aca7a5b2715f143b1078857bc96c1&v=4",
+        "email": "jersonmr@gmail.com",
+        "phone": "+58 4147858984",
+        "url": "https://jersonmr.netlify.app/",
+        "summary": "+8 years of experience as Web Developer. Living in Venezuela, I like the technology and the software develop. I like to learn and share my knowledge. I enjoy working on team and help to others. Music, movies and reading are my passions",
+        "location": {
+            "address": "",
+            "postalCode": "6101",
+            "city": "Cumaná",
+            "countryCode": "VE",
+            "region": "Venezuela"
+        },
+        "profiles": [
+            {
+                "network": "X",
+                "username": "jemodev",
+                "url": "https://x.com/jemodev"
+            },
+            {
+                "network": "GitHub",
+                "username": "jersonmr",
+                "url": "https://github.com/jersonmr"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "jersonmr",
+                "url": "https://linkedin.com/in/jersonmr"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Wehaa",
+            "position": "Full Stack Developer",
+            "url": "https://wehaa.com",
+            "startDate": "2022-09-01",
+            "endDate": "2022-12-31",
+            "summary": "I worked entirely with the Laravel framework and all their ecosystem in the building of misc projects",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Square1",
+            "position": "Full Stack Developer",
+            "url": "https://square1.io",
+            "startDate": "2021-05-01",
+            "endDate": "2022-06-31",
+            "summary": "I worked entirely with the Laravel framework and all their ecosystem in the building of misc projects",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Chargy",
+            "position": "Backend Developer",
+            "url": "https://chargy.com",
+            "startDate": "2022-09-01",
+            "endDate": "2022-12-31",
+            "summary": "I worked entirely with the Laravel framework in the develop of an API who was consumed with Vue.js and one mobile app",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Aguayo",
+            "position": "Frontend Developer",
+            "url": "https://aguayo.co",
+            "startDate": "2018-07-01",
+            "endDate": "2019-06-30",
+            "summary": "I worked in many projects like interface designer using style guides done with CSS and Sass and trying to apply the best practices to bring the prototypes to the functional design",
+            "highlights": ["Started the company"]
+        },
+        {
+            "name": "Cesticom",
+            "position": "Frontend Developer",
+            "url": "https://cesticom.com",
+            "startDate": "2016-06-01",
+            "endDate": "2018-07-31",
+            "summary": "I kept working with tools such as HTML, CSS and JS using frameworks like Bootstrap and preprocessors like Sass, integrating all to the Larvel framework",
+            "highlights": ["Started the company"]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "Organization",
+            "position": "Volunteer",
+            "url": "https://organization.com/",
+            "startDate": "2012-01-01",
+            "endDate": "2013-01-01",
+            "summary": "Description…",
+            "highlights": ["Awarded 'Volunteer of the Month'"]
+        }
+    ],
+    "education": [
+        {
+            "institution": "University",
+            "url": "https://institution.com/",
+            "area": "Software Development",
+            "studyType": "Bachelor",
+            "startDate": "2011-01-01",
+            "endDate": "2013-01-01",
+            "score": "4.0",
+            "courses": ["DB1101 - Basic SQL"]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Certificate",
+            "date": "2021-11-07",
+            "issuer": "Company",
+            "url": "https://certificate.com"
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "HTML",
+            "level": "Advanced",
+            "keywords": ["Web Develop", "Frontend"]
+        },
+        {
+            "name": "CSS",
+            "level": "Advanced",
+            "keywords": ["Web Develop", "Web Design", "Responsive Design"]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Advanced",
+            "keywords": ["Web Develop", "Frontend"]
+        },
+        {
+            "name": "PHP",
+            "level": "Advanced",
+            "keywords": ["Web Develop", "Backend", "API"]
+        },
+        {
+            "name": "MySQL",
+            "level": "Advanced",
+            "keywords": ["Database", "SQL", "Backend"]
+        },
+        {
+            "name": "Git",
+            "level": "Advanced",
+            "keywords": ["Version Control", "Collaborative", "Source Code"]
+        },
+        {
+            "name": "Laravel",
+            "level": "Advanced",
+            "keywords": [
+                "Web Develop",
+                "Frontend",
+                "Backend",
+                "API",
+                "Full Stack"
+            ]
+        },
+        {
+            "name": "Astro",
+            "level": "Medio",
+            "keywords": [
+                "Web Develop",
+                "Frontend",
+                "Static Site Generation",
+                "UI"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Medio",
+            "keywords": ["Web Develop", "Frontend", "JavaScript Library", "UI"]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Wildlife",
+            "keywords": ["Ferrets", "Unicorns"]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Mocatec",
+            "isActive": true,
+            "description": "Solutions for your business",
+            "highlights": ["Consulting", "Web Develop", "Multi lang"],
+            "url": "https://mocatec.com/"
+        },
+        {
+            "name": "Japan Gourmet Pass",
+            "isActive": true,
+            "description": "Uncover Japanese hidden culinary treasures without the guesswork",
+            "highlights": ["Web Develop", "Multi lang", "API"],
+            "url": "https://japangourmetpass.com/"
+        },
+        {
+            "name": "Pisto",
+            "isActive": true,
+            "description": "Fast loans for any purpose in 24 hours",
+            "highlights": ["Web Develop", "API", "Mobile App"],
+            "url": "https://pisto.com/"
+        }
+    ]
+}

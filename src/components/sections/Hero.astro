@@ -40,7 +40,7 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(" • ");
                     email && (
                         <a
                             href={`mailto:${email}`}
-                            title={`Enviar correo electrónico a ${name} (${email})`}
+                            title={`Send email to ${name} (${email})`}
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -52,7 +52,7 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(" • ");
                     phone && (
                         <a
                             href={`tel:${phone}`}
-                            title={`Llamar por teléfono a ${name} (${phone})`}
+                            title={`Call by phone to ${name} (${phone})`}
                             target="_blank"
                             rel="noopener noreferrer"
                         >
@@ -67,7 +67,7 @@ const printInfo = [email, phone, linkedinUrl].filter(Boolean).join(" • ");
                         return (
                             <a
                                 href={url}
-                                title={`Visitar perfil de ${name} en ${network}`}
+                                title={`Visit profile of ${name} in ${network}`}
                                 target="_blank"
                                 rel="noopener noreferrer"
                             >
